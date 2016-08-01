@@ -10,6 +10,10 @@
 # Auto-prefixing of CSS code with vendor prefix
 activate :autoprefixer
 
+activate :blog do |blog|
+  blog.prefix = "blog"
+end
+
 ###
 # Page options, layouts, aliases and proxies
 ###
