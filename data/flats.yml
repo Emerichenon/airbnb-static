@@ -1,0 +1,24 @@
+emeric:
+  owner_name: Emeric Henon
+  picture: card-paris.jpg
+  owner_picture: emeric-pp.jpg
+  name: Emeric's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+mael:
+  owner_name: Mael Machane
+  picture: card-london.jpeg
+  owner_picture: mael-pp.jpg
+  name: Mael's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+seb:
+  owner_name: Sebastien Saunier
+  picture: card-brussels.jpeg
+  owner_picture: seb.jpg
+  name: Seb's Home
+  summary: Great place in Belgium
+  city: Brussels, Belgium
+  wifi: true
